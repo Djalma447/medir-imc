@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedidorDeIMC", "MedidorDeIMC\MedidorDeIMC.csproj", "{E48AEE37-0C30-48C1-AE01-7A9469E2C0B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E48AEE37-0C30-48C1-AE01-7A9469E2C0B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E48AEE37-0C30-48C1-AE01-7A9469E2C0B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E48AEE37-0C30-48C1-AE01-7A9469E2C0B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E48AEE37-0C30-48C1-AE01-7A9469E2C0B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEC3E727-12EF-4978-8326-CA3F98B62382}
+	EndGlobalSection
+EndGlobal
