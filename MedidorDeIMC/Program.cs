@@ -7,7 +7,8 @@ namespace MedidorDeIMC
         static void Main(string[] args)
         {
             Console.WriteLine("Programa Medidor de IMC (Índice de Massa Corporal)");
-
+            Console.WriteLine("Digite seu peso (Kg)");
+            double peso = double.Parse(Console.ReadLine());
         }
     }
 }
