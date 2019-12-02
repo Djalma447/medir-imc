@@ -40,8 +40,6 @@ namespace MedidorDeIMC
             {
                 Console.WriteLine("Indica obesidade grau três ou mórbida. O peso neste grau apresenta problemas extremamente graves e necessita de tratamento profissional com o máximo de recursos disponíveis, incluindo até cirurgia.");
             }
-            Console.WriteLine("Obrigado por escolher os programas de DJR");
-            Console.WriteLine("Tenha um Bom Dia");
         }
     }
 }
