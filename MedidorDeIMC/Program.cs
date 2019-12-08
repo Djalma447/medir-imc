@@ -7,6 +7,7 @@ namespace MedidorDeIMC
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("--------------------------------------------------");
             Console.WriteLine("Programa Medidor de IMC (Índice de Massa Corporal)");
             Console.WriteLine("Digite seu peso (Kg)");
             double peso = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
@@ -40,6 +41,7 @@ namespace MedidorDeIMC
             {
                 Console.WriteLine("Indica obesidade grau três ou mórbida. O peso neste grau apresenta problemas extremamente graves e necessita de tratamento profissional com o máximo de recursos disponíveis, incluindo até cirurgia.");
             }
+            Console.WriteLine(    "---------------------------------------------------------------------------------------------");
         }
     }
 }
